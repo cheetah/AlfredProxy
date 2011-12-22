@@ -23,11 +23,11 @@
 	<key>growloutput</key>
 	<true/>
 	<key>growloutputsticky</key>
-	<true/>
+	<false/>
 	<key>keyword</key>
 	<string>proxy</string>
 	<key>logging</key>
-	<true/>
+	<false/>
 	<key>parameter</key>
 	<integer>2</integer>
 	<key>silent</key>
