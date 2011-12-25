@@ -11,15 +11,15 @@
 	<key>disabled</key>
 	<false/>
 	<key>escapequery</key>
-	<true/>
+	<false/>
 	<key>escapequerybackquotes</key>
-	<true/>
+	<false/>
 	<key>escapequerybrackets</key>
-	<true/>
+	<false/>
 	<key>escapequeryquotes</key>
-	<true/>
+	<false/>
 	<key>escapequerysemicolons</key>
-	<true/>
+	<false/>
 	<key>growloutput</key>
 	<true/>
 	<key>growloutputsticky</key>
