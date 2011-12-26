@@ -33,7 +33,7 @@
 	<key>silent</key>
 	<true/>
 	<key>subtitle</key>
-	<string>Manipulate your webproxy settings via Alfred.</string>
+	<string>Manipulate proxy settings via Alfred.</string>
 	<key>title</key>
 	<string>AlfredProxy</string>
 </dict>
