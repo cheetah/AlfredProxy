@@ -12,4 +12,4 @@ Usage
 
 Installation
 ------------
-[Download](https://github.com/cheetah/AlfredProxy/extension/AlredProxy.alfredextension) the latest version of AlfredProxy. You will need Alfred Powerpack and Growl to use it.
+[Download](https://github.com/cheetah/AlfredProxy/raw/master/extension/AlfredProxy.alfredextension) the latest version of AlfredProxy. You will need Alfred Powerpack and Growl to use it.
